@@ -1,3 +1,5 @@
+// formula = n! / ((r)!*(n-r)!)
+
 #include<iostream>
 #include<math.h>
 using namespace std;
